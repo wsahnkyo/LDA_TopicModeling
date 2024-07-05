@@ -4,3 +4,4 @@
 *.log
 *VSCODE*
 *DS*
+.idea
